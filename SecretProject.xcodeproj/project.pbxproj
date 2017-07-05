@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A764DF831F0D7F2D0087BA27 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF821F0D7F2D0087BA27 /* FloatingActionButton.swift */; };
+		A764DFA31F0D81F30087BA27 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF991F0D81F30087BA27 /* UIButtonX.swift */; };
+		A764DFA41F0D81F30087BA27 /* UIImageViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9A1F0D81F30087BA27 /* UIImageViewX.swift */; };
+		A764DFA51F0D81F30087BA27 /* UILabelX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9B1F0D81F30087BA27 /* UILabelX.swift */; };
+		A764DFA61F0D81F30087BA27 /* UISliderX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9C1F0D81F30087BA27 /* UISliderX.swift */; };
+		A764DFA71F0D81F30087BA27 /* UITextFieldX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9D1F0D81F30087BA27 /* UITextFieldX.swift */; };
+		A764DFA81F0D81F30087BA27 /* UIViewAnchorPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9E1F0D81F30087BA27 /* UIViewAnchorPoint.swift */; };
+		A764DFA91F0D81F30087BA27 /* UIViewControllerX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DF9F1F0D81F30087BA27 /* UIViewControllerX.swift */; };
+		A764DFAA1F0D81F30087BA27 /* UIViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DFA01F0D81F30087BA27 /* UIViewX.swift */; };
+		A764DFAB1F0D81F30087BA27 /* UIViewXRadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DFA11F0D81F30087BA27 /* UIViewXRadialGradient.swift */; };
+		A764DFAC1F0D81F30087BA27 /* UIVisualEffectViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = A764DFA21F0D81F30087BA27 /* UIVisualEffectViewX.swift */; };
 		A7F026241F06EB6400FC1DAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F026231F06EB6400FC1DAC /* AppDelegate.swift */; };
 		A7F026271F06EB6500FC1DAC /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F026261F06EB6500FC1DAC /* Model.swift */; };
 		A7F026291F06EB6500FC1DAC /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F026281F06EB6500FC1DAC /* Data.swift */; };
@@ -18,6 +29,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A764DF821F0D7F2D0087BA27 /* FloatingActionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
+		A764DF991F0D81F30087BA27 /* UIButtonX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
+		A764DF9A1F0D81F30087BA27 /* UIImageViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewX.swift; sourceTree = "<group>"; };
+		A764DF9B1F0D81F30087BA27 /* UILabelX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelX.swift; sourceTree = "<group>"; };
+		A764DF9C1F0D81F30087BA27 /* UISliderX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISliderX.swift; sourceTree = "<group>"; };
+		A764DF9D1F0D81F30087BA27 /* UITextFieldX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldX.swift; sourceTree = "<group>"; };
+		A764DF9E1F0D81F30087BA27 /* UIViewAnchorPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewAnchorPoint.swift; sourceTree = "<group>"; };
+		A764DF9F1F0D81F30087BA27 /* UIViewControllerX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerX.swift; sourceTree = "<group>"; };
+		A764DFA01F0D81F30087BA27 /* UIViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewX.swift; sourceTree = "<group>"; };
+		A764DFA11F0D81F30087BA27 /* UIViewXRadialGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewXRadialGradient.swift; sourceTree = "<group>"; };
+		A764DFA21F0D81F30087BA27 /* UIVisualEffectViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewX.swift; sourceTree = "<group>"; };
 		A7F026201F06EB6400FC1DAC /* SecretProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecretProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7F026231F06EB6400FC1DAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7F026261F06EB6500FC1DAC /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
@@ -41,6 +63,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A764DF7F1F0D73D30087BA27 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A764DF841F0D818F0087BA27 /* DesignableX */,
+				A7F026351F06EB6500FC1DAC /* Assets.xcassets */,
+				A764DF821F0D7F2D0087BA27 /* FloatingActionButton.swift */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		A764DF841F0D818F0087BA27 /* DesignableX */ = {
+			isa = PBXGroup;
+			children = (
+				A764DF991F0D81F30087BA27 /* UIButtonX.swift */,
+				A764DF9A1F0D81F30087BA27 /* UIImageViewX.swift */,
+				A764DF9B1F0D81F30087BA27 /* UILabelX.swift */,
+				A764DF9C1F0D81F30087BA27 /* UISliderX.swift */,
+				A764DF9D1F0D81F30087BA27 /* UITextFieldX.swift */,
+				A764DF9E1F0D81F30087BA27 /* UIViewAnchorPoint.swift */,
+				A764DF9F1F0D81F30087BA27 /* UIViewControllerX.swift */,
+				A764DFA01F0D81F30087BA27 /* UIViewX.swift */,
+				A764DFA11F0D81F30087BA27 /* UIViewXRadialGradient.swift */,
+				A764DFA21F0D81F30087BA27 /* UIVisualEffectViewX.swift */,
+			);
+			name = DesignableX;
+			sourceTree = "<group>";
+		};
 		A7F026171F06EB6400FC1DAC = {
 			isa = PBXGroup;
 			children = (
@@ -60,7 +109,7 @@
 		A7F026221F06EB6400FC1DAC /* SecretProject */ = {
 			isa = PBXGroup;
 			children = (
-				A7F026351F06EB6500FC1DAC /* Assets.xcassets */,
+				A764DF7F1F0D73D30087BA27 /* Resources */,
 				A7F0263A1F06EB6500FC1DAC /* Info.plist */,
 				A7F026251F06EB6400FC1DAC /* Model */,
 				A7F0262D1F06EB6500FC1DAC /* View */,
@@ -169,9 +218,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A764DFA81F0D81F30087BA27 /* UIViewAnchorPoint.swift in Sources */,
+				A764DFA51F0D81F30087BA27 /* UILabelX.swift in Sources */,
+				A764DFA61F0D81F30087BA27 /* UISliderX.swift in Sources */,
 				A7F026341F06EB6500FC1DAC /* ViewController.swift in Sources */,
+				A764DFA41F0D81F30087BA27 /* UIImageViewX.swift in Sources */,
+				A764DFAA1F0D81F30087BA27 /* UIViewX.swift in Sources */,
+				A764DFAC1F0D81F30087BA27 /* UIVisualEffectViewX.swift in Sources */,
+				A764DF831F0D7F2D0087BA27 /* FloatingActionButton.swift in Sources */,
 				A7F026241F06EB6400FC1DAC /* AppDelegate.swift in Sources */,
+				A764DFAB1F0D81F30087BA27 /* UIViewXRadialGradient.swift in Sources */,
+				A764DFA91F0D81F30087BA27 /* UIViewControllerX.swift in Sources */,
+				A764DFA31F0D81F30087BA27 /* UIButtonX.swift in Sources */,
 				A7F026311F06EB6500FC1DAC /* TableViewCell.swift in Sources */,
+				A764DFA71F0D81F30087BA27 /* UITextFieldX.swift in Sources */,
 				A7F026291F06EB6500FC1DAC /* Data.swift in Sources */,
 				A7F026271F06EB6500FC1DAC /* Model.swift in Sources */,
 			);
@@ -329,6 +389,7 @@
 				A7F0263F1F06EB6500FC1DAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
